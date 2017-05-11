@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1464413535 source:c:\users\lenovo_pc\desktop\projeler\c++\space invaders deneme\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
+1464413535 source:c:\users\lenovo_pc\desktop\projeler\c++\oyun denemeleri\space invaders\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
